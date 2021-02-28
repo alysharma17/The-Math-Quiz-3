@@ -1,0 +1,28 @@
+body {
+    background-image:url("https://www.freeppt7.com/uploads/180808/1-1PPP95T1a6.jpg");
+}
+#heading {
+color:aqua;
+
+}
+button {
+    color:lightpink;
+    background-color: yellow;
+    width:200px;
+    height:100px;
+    font-size:x-large;
+    font-family:Verdana;
+}
+input {
+    width:160px;
+    height:50px;
+}
+#output {
+    background:white;
+    border-radius:10px;
+    border-top:10px solid #AA4465;
+    padding:10px;
+    float:none;
+    text-align:left;
+
+}
